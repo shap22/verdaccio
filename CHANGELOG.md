@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.11.0](https://github.com/verdaccio/verdaccio/compare/v4.10.0...v4.11.0) (2020-12-28)
+
+
+### Features
+
+* skip log static content from web ([#2027](https://github.com/verdaccio/verdaccio/issues/2027)) ([39376be](https://github.com/verdaccio/verdaccio/commit/39376be34514f4c7e1d3a0f403a8dad30f7a3f72)), closes [#2026](https://github.com/verdaccio/verdaccio/issues/2026)
+* test ([92890a8](https://github.com/verdaccio/verdaccio/commit/92890a8e2b323f8cdfac4d5362729e089dc8fc4d))
+* test ([08a99eb](https://github.com/verdaccio/verdaccio/commit/08a99ebfe1c807b479992a3937d784451e3165bc))
+* update @verdaccio/ui-theme  ([#2026](https://github.com/verdaccio/verdaccio/issues/2026)) ([2ea17ce](https://github.com/verdaccio/verdaccio/commit/2ea17ced2c52782b5dca2444e26d16336f977cf9))
+
 ## [4.10.0](https://github.com/verdaccio/verdaccio/compare/v4.9.1...v4.10.0) (2020-12-06)
 
 
